@@ -12,7 +12,7 @@ Inspeckage_Hash:Algorithm(MD5) [AA01AAC9-1ww : 5dcfad62436f743148c5ba5985ab8a57]
 key是 MD5(packageName + versionName + main)小写；
 iv是 MD5(build_id + name)小写前16位；
 ```
-### 对于最新版的Pro8.0：
+### 对于最新版的Auto.js Pro8.0：
 ```
 ///////////////////////////////////////////////////
 /////  AES/CBC/PKCS7Padding
